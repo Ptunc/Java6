@@ -16,6 +16,6 @@ public class java6 {
 
         bmi = (k / (m * m));
         System.out.println("BMI: " + bmi);
-
+        input.close();
     }
 }
